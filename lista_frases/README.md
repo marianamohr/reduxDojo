@@ -1,5 +1,5 @@
 *Checklist do react-redux*
-- [ ] npx create-react-app my-app-redux;
+- [x] npx create-react-app my-app-redux;
 - [ ] npm install --save redux react-redux;
 - [ ] npm install.
 *Criar dentro do diretório src:*
