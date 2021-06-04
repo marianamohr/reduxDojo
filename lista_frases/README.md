@@ -1,31 +1,31 @@
 *Checklist do react-redux*
-- [x] npx create-react-app my-app-redux;
-- [x] npm install --save redux react-redux;
-- [x] npm install.
+- [ ] npx create-react-app my-app-redux;
+- [ ] npm install --save redux react-redux;
+- [ ] npm install.
 
 *Criar dentro do diretório src:*
-- [x] diretório actions;
-- [x] diretório reducers;
-- [x] diretório store.
+- [ ] diretório actions;
+- [ ] diretório reducers;
+- [ ] diretório store.
 
 *Criar dentro do diretório actions:*
-- [x] arquivo index.js.
+- [ ] arquivo index.js.
 
 *Criar dentro do diretório reducers:*
-- [x] arquivo index.js.
+- [ ] arquivo index.js.
 
 *Criar dentro do diretório store:*
-- [x] arquivo index.js.
+- [ ] arquivo index.js.
 
 *No arquivo App.js:*
-- [x] definir o Provider, `<Provider store={ store }>`, para fornecer os estados à todos os componentes encapsulados em `<App />`.
+- [ ] definir o Provider, `<Provider store={ store }>`, para fornecer os estados à todos os componentes encapsulados em `<App />`.
 
 *No arquivo store/index.js:*
-- [x] importar o rootReducer e criar a store
-- [x] configurar o [Redux DevTools](https://github.com/reduxjs/redux-devtools)
+- [ ] importar o rootReducer e criar a store
+- [ ] configurar o [Redux DevTools](https://github.com/reduxjs/redux-devtools)
 
 *Na pasta reducers:*
-- [x] criar os reducers necessários
+- [ ] criar os reducers necessários
 - [ ] configurar os exports do arquivo index.js
 
 *Na pasta actions:*
